@@ -1,0 +1,678 @@
+{
+  "ret": 0,
+  "message": "成功",
+  "data": {
+    "bg": "",
+    "contents": [
+      {
+        "id": "10354487",
+        "focusable": 1,
+        "height": 448,
+        "extra": {
+          "data_gather_info": {
+            "data_version": 0,
+            "data_id": "",
+            "position_id": ""
+          },
+          "block_type_info": {
+            "auto_play_video": false,
+            "lucency_flag": "0",
+            "conver_type": "base",
+            "block_contents_type": ""
+          },
+          "block_back_contents": {
+            "back_contents": [
+
+            ],
+            "movie_percentage": 1.0
+          },
+          "block_content_info": {
+            "imgs": {
+              "focus_img_url": "",
+              "fg": {
+                "align": 0
+              },
+              "poster": {
+                "interval": 0,
+                "images": [
+                  "http://img.sky.fs.skysrt.com/tvos6_imgs_master/20180716/20180716015659195858_797x448.png"
+                ]
+              },
+              "corner_icons": [
+
+              ]
+            },
+            "videoSources": [
+              {
+                "id": ""
+              }
+            ],
+            "title": "......vs............-......",
+            "app_devices": "",
+            "app_packagename": "",
+            "video_source_sign": "",
+            "video_source_company": "",
+            "score": "0",
+            "action": "{\"byvalue\":\"cibntv_yingshi://playlist?playListId=1005541&playListNav=1005541&from=com.tianci.movieplatform\",\"packagename\":\"com.cibn.tv\",\"dowhat\":\"startActivity\",\"versioncode\":\"2120513126\",\"params\":{},\"bywhat\":\"uri\",\"exception\":{\"name\":\"onclick_exception\",\"value\":{\"packagename\":\"com.tianci.appstore\",\"dowhat\":\"startActivity\",\"versioncode\":\"-1\",\"params\":{\"id\":\"com.cibn.tv\"},\"byvalue\":\"coocaa.intent.action.APP_STORE_DETAIL\",\"bywhat\":\"action\"}}}",
+            "title_align": 0,
+            "video_is_vip": false,
+            "sub_title": ""
+          }
+        },
+        "width": 797,
+        "type": "Block",
+        "y": 0,
+        "x": 0
+      },
+      {
+        "id": "10354488",
+        "focusable": 1,
+        "height": 448,
+        "extra": {
+          "data_gather_info": {
+            "data_version": 0,
+            "data_id": "",
+            "position_id": ""
+          },
+          "block_type_info": {
+            "auto_play_video": false,
+            "lucency_flag": "0",
+            "conver_type": "base",
+            "block_contents_type": ""
+          },
+          "block_back_contents": {
+            "back_contents": [
+
+            ],
+            "movie_percentage": 1.0
+          },
+          "block_content_info": {
+            "imgs": {
+              "focus_img_url": "",
+              "fg": {
+                "align": 0
+              },
+              "poster": {
+                "interval": 0,
+                "images": [
+                  "http://img.sky.fs.skysrt.com/tvos6_imgs_master/20180716/20180716015658784501_384x448.png"
+                ]
+              },
+              "corner_icons": [
+
+              ]
+            },
+            "videoSources": [
+              {
+                "id": ""
+              }
+            ],
+            "title": "..................",
+            "app_devices": "",
+            "app_packagename": "",
+            "video_source_sign": "",
+            "video_source_company": "",
+            "score": "0",
+            "action": "{\"byvalue\":\"cibntv_yingshi://playlist?playListId=1005538&playListNav=1005538&from=com.tianci.movieplatform\",\"packagename\":\"com.cibn.tv\",\"dowhat\":\"startActivity\",\"versioncode\":\"2120513126\",\"params\":{},\"bywhat\":\"uri\",\"exception\":{\"name\":\"onclick_exception\",\"value\":{\"packagename\":\"com.tianci.appstore\",\"dowhat\":\"startActivity\",\"versioncode\":\"-1\",\"params\":{\"id\":\"com.cibn.tv\"},\"byvalue\":\"coocaa.intent.action.APP_STORE_DETAIL\",\"bywhat\":\"action\"}}}",
+            "title_align": 0,
+            "video_is_vip": false,
+            "sub_title": ""
+          }
+        },
+        "width": 384,
+        "type": "Block",
+        "y": 0,
+        "x": 825
+      },
+      {
+        "id": "10354489",
+        "focusable": 1,
+        "height": 210,
+        "extra": {
+          "data_gather_info": {
+            "data_version": 0,
+            "data_id": "",
+            "position_id": ""
+          },
+          "block_type_info": {
+            "auto_play_video": false,
+            "lucency_flag": "0",
+            "conver_type": "base",
+            "block_contents_type": ""
+          },
+          "block_back_contents": {
+            "back_contents": [
+
+            ],
+            "movie_percentage": 1.0
+          },
+          "block_content_info": {
+            "imgs": {
+              "focus_img_url": "",
+              "fg": {
+                "align": 0
+              },
+              "poster": {
+                "interval": 0,
+                "images": [
+                  "http://img.sky.fs.skysrt.com/tvos6_imgs_master/20180716/20180716023323635081_384x210.jpg"
+                ]
+              },
+              "corner_icons": [
+
+              ]
+            },
+            "videoSources": [
+              {
+                "id": ""
+              }
+            ],
+            "title": ".........TOP10",
+            "app_devices": "",
+            "app_packagename": "",
+            "video_source_sign": "",
+            "video_source_company": "",
+            "score": "0",
+            "action": "{\"byvalue\":\"cibntv_yingshi://playlist?playListId=1005533&playListNav=1005533,1005532,1005531,1005529,1005478,1005480,1005479,1004366,1005531&from=com.tianci.movieplatform\",\"packagename\":\"com.cibn.tv\",\"dowhat\":\"startActivity\",\"versioncode\":\"2120513126\",\"params\":{},\"bywhat\":\"uri\",\"exception\":{\"name\":\"onclick_exception\",\"value\":{\"packagename\":\"com.tianci.appstore\",\"dowhat\":\"startActivity\",\"versioncode\":\"-1\",\"params\":{\"id\":\"com.cibn.tv\"},\"byvalue\":\"coocaa.intent.action.APP_STORE_DETAIL\",\"bywhat\":\"action\"}}}",
+            "title_align": 0,
+            "video_is_vip": false,
+            "sub_title": ""
+          }
+        },
+        "width": 384,
+        "type": "Block",
+        "y": 0,
+        "x": 1238
+      },
+      {
+        "id": "10354490",
+        "focusable": 1,
+        "height": 210,
+        "extra": {
+          "data_gather_info": {
+            "data_version": 0,
+            "data_id": "",
+            "position_id": ""
+          },
+          "block_type_info": {
+            "auto_play_video": false,
+            "lucency_flag": "0",
+            "conver_type": "base",
+            "block_contents_type": ""
+          },
+          "block_back_contents": {
+            "back_contents": [
+
+            ],
+            "movie_percentage": 1.0
+          },
+          "block_content_info": {
+            "imgs": {
+              "focus_img_url": "",
+              "fg": {
+                "align": 0
+              },
+              "poster": {
+                "interval": 0,
+                "images": [
+                  "http://img.sky.fs.skysrt.com/tvos6_imgs_master/20180716/20180716023323566128_384x210.jpg"
+                ]
+              },
+              "corner_icons": [
+
+              ]
+            },
+            "videoSources": [
+              {
+                "id": ""
+              }
+            ],
+            "title": "............",
+            "app_devices": "",
+            "app_packagename": "",
+            "video_source_sign": "",
+            "video_source_company": "",
+            "score": "0",
+            "action": "{\"byvalue\":\"cibntv_yingshi://playlist?playListId=1000264&playListNav=1000264,1002642,1005547,1005403,1004269,1005057,1005381,1005548,1005545,1005544,1000264,1005455,1000262&from=com.tianci.movieplatform\",\"packagename\":\"com.cibn.tv\",\"dowhat\":\"startActivity\",\"versioncode\":\"2120513126\",\"params\":{},\"bywhat\":\"uri\",\"exception\":{\"name\":\"onclick_exception\",\"value\":{\"packagename\":\"com.tianci.appstore\",\"dowhat\":\"startActivity\",\"versioncode\":\"-1\",\"params\":{\"id\":\"com.cibn.tv\"},\"byvalue\":\"coocaa.intent.action.APP_STORE_DETAIL\",\"bywhat\":\"action\"}}}",
+            "title_align": 0,
+            "video_is_vip": false,
+            "sub_title": ""
+          }
+        },
+        "width": 384,
+        "type": "Block",
+        "y": 238,
+        "x": 1238
+      },
+      {
+        "id": "10354491",
+        "focusable": 1,
+        "height": 90,
+        "extra": {
+          "data_gather_info": {
+            "data_version": 0,
+            "data_id": "",
+            "position_id": ""
+          },
+          "block_type_info": {
+            "auto_play_video": false,
+            "lucency_flag": "0",
+            "conver_type": "base",
+            "block_contents_type": ""
+          },
+          "block_back_contents": {
+            "back_contents": [
+
+            ],
+            "movie_percentage": 1.0
+          },
+          "block_content_info": {
+            "imgs": {
+              "focus_img_url": "",
+              "fg": {
+                "align": 0
+              },
+              "poster": {
+                "interval": 0,
+                "images": [
+                  "http://img.sky.fs.skysrt.com/tvos6_imgs_master/20180716/20180716100629971717_797x90.jpg"
+                ]
+              },
+              "corner_icons": [
+
+              ]
+            },
+            "videoSources": [
+              {
+                "id": ""
+              }
+            ],
+            "title": "1",
+            "app_devices": "",
+            "app_packagename": "",
+            "video_source_sign": "",
+            "video_source_company": "",
+            "score": "0",
+            "action": "{\"byvalue\":\"pptv_tvsports://tvsports_topic?special_id=837&from_internal=1\",\"packagename\":\"com.pptv.tvsports\",\"dowhat\":\"startActivity\",\"versioncode\":\"129\",\"params\":{},\"bywhat\":\"uri\",\"exception\":{\"name\":\"onclick_exception\",\"value\":{\"packagename\":\"com.tianci.appstore\",\"dowhat\":\"startActivity\",\"versioncode\":\"-1\",\"params\":{\"id\":\"com.pptv.tvsports\"},\"byvalue\":\"coocaa.intent.action.APP_STORE_DETAIL\",\"bywhat\":\"action\"}}}",
+            "title_align": 0,
+            "video_is_vip": false,
+            "sub_title": ""
+          }
+        },
+        "width": 797,
+        "type": "Block",
+        "y": 476,
+        "x": 0
+      },
+      {
+        "id": "10354492",
+        "focusable": 1,
+        "height": 90,
+        "extra": {
+          "data_gather_info": {
+            "data_version": 0,
+            "data_id": "",
+            "position_id": ""
+          },
+          "block_type_info": {
+            "auto_play_video": false,
+            "lucency_flag": "0",
+            "conver_type": "base",
+            "block_contents_type": ""
+          },
+          "block_back_contents": {
+            "back_contents": [
+
+            ],
+            "movie_percentage": 1.0
+          },
+          "block_content_info": {
+            "imgs": {
+              "focus_img_url": "",
+              "fg": {
+                "align": 0
+              },
+              "poster": {
+                "interval": 0,
+                "images": [
+                  "http://img.sky.fs.skysrt.com/tvos6_imgs_master/20180716/20180716100629492950_797x90.jpg"
+                ]
+              },
+              "corner_icons": [
+
+              ]
+            },
+            "videoSources": [
+              {
+                "id": ""
+              }
+            ],
+            "title": "2",
+            "app_devices": "",
+            "app_packagename": "",
+            "video_source_sign": "",
+            "video_source_company": "",
+            "score": "0",
+            "action": "{\"byvalue\":\"pptv_tvsports://tvsports_topic?special_id=815&from_internal=1\",\"packagename\":\"com.pptv.tvsports\",\"dowhat\":\"startActivity\",\"versioncode\":\"129\",\"params\":{},\"bywhat\":\"uri\",\"exception\":{\"name\":\"onclick_exception\",\"value\":{\"packagename\":\"com.tianci.appstore\",\"dowhat\":\"startActivity\",\"versioncode\":\"-1\",\"params\":{\"id\":\"com.pptv.tvsports\"},\"byvalue\":\"coocaa.intent.action.APP_STORE_DETAIL\",\"bywhat\":\"action\"}}}",
+            "title_align": 0,
+            "video_is_vip": false,
+            "sub_title": ""
+          }
+        },
+        "width": 797,
+        "type": "Block",
+        "y": 566,
+        "x": 0
+      },
+      {
+        "id": "10354493",
+        "focusable": 1,
+        "height": 90,
+        "extra": {
+          "data_gather_info": {
+            "data_version": 0,
+            "data_id": "",
+            "position_id": ""
+          },
+          "block_type_info": {
+            "auto_play_video": false,
+            "lucency_flag": "0",
+            "conver_type": "base",
+            "block_contents_type": ""
+          },
+          "block_back_contents": {
+            "back_contents": [
+
+            ],
+            "movie_percentage": 1.0
+          },
+          "block_content_info": {
+            "imgs": {
+              "focus_img_url": "",
+              "fg": {
+                "align": 0
+              },
+              "poster": {
+                "interval": 0,
+                "images": [
+                  "http://img.sky.fs.skysrt.com/tvos6_imgs_master/20180716/20180716100630946527_797x90.jpg"
+                ]
+              },
+              "corner_icons": [
+
+              ]
+            },
+            "videoSources": [
+              {
+                "id": ""
+              }
+            ],
+            "title": "3",
+            "app_devices": "",
+            "app_packagename": "",
+            "video_source_sign": "",
+            "video_source_company": "",
+            "score": "0",
+            "action": "{\"byvalue\":\"pptv_tvsports://tvsports_detail?section_id=845&from_internal=1\",\"packagename\":\"com.pptv.tvsports\",\"dowhat\":\"startActivity\",\"versioncode\":\"129\",\"params\":{},\"bywhat\":\"uri\",\"exception\":{\"name\":\"onclick_exception\",\"value\":{\"packagename\":\"com.tianci.appstore\",\"dowhat\":\"startActivity\",\"versioncode\":\"-1\",\"params\":{\"id\":\"com.pptv.tvsports\"},\"byvalue\":\"coocaa.intent.action.APP_STORE_DETAIL\",\"bywhat\":\"action\"}}}",
+            "title_align": 0,
+            "video_is_vip": false,
+            "sub_title": ""
+          }
+        },
+        "width": 797,
+        "type": "Block",
+        "y": 656,
+        "x": 0
+      },
+      {
+        "id": "10354494",
+        "focusable": 1,
+        "height": 90,
+        "extra": {
+          "data_gather_info": {
+            "data_version": 0,
+            "data_id": "",
+            "position_id": ""
+          },
+          "block_type_info": {
+            "auto_play_video": false,
+            "lucency_flag": "0",
+            "conver_type": "base",
+            "block_contents_type": ""
+          },
+          "block_back_contents": {
+            "back_contents": [
+
+            ],
+            "movie_percentage": 1.0
+          },
+          "block_content_info": {
+            "imgs": {
+              "focus_img_url": "",
+              "fg": {
+                "align": 0
+              },
+              "poster": {
+                "interval": 0,
+                "images": [
+                  "http://img.sky.fs.skysrt.com/tvos6_imgs_master/20180716/20180716100630697185_797x90.jpg"
+                ]
+              },
+              "corner_icons": [
+
+              ]
+            },
+            "videoSources": [
+              {
+                "id": ""
+              }
+            ],
+            "title": "...............",
+            "app_devices": "",
+            "app_packagename": "",
+            "video_source_sign": "",
+            "video_source_company": "",
+            "score": "0",
+            "action": "{\"byvalue\":\"pptv_tvsports://tvsports_topic?special_id=859&from_internal=1\",\"packagename\":\"com.pptv.tvsports\",\"dowhat\":\"startActivity\",\"versioncode\":\"129\",\"params\":{},\"bywhat\":\"uri\",\"exception\":{\"name\":\"onclick_exception\",\"value\":{\"packagename\":\"com.tianci.appstore\",\"dowhat\":\"startActivity\",\"versioncode\":\"-1\",\"params\":{\"id\":\"com.pptv.tvsports\"},\"byvalue\":\"coocaa.intent.action.APP_STORE_DETAIL\",\"bywhat\":\"action\"}}}",
+            "title_align": 0,
+            "video_is_vip": false,
+            "sub_title": ""
+          }
+        },
+        "width": 797,
+        "type": "Block",
+        "y": 746,
+        "x": 0
+      },
+      {
+        "id": "10354495",
+        "focusable": 1,
+        "height": 360,
+        "extra": {
+          "data_gather_info": {
+            "data_version": 0,
+            "data_id": "",
+            "position_id": ""
+          },
+          "block_type_info": {
+            "auto_play_video": false,
+            "lucency_flag": "0",
+            "conver_type": "base",
+            "block_contents_type": ""
+          },
+          "block_back_contents": {
+            "back_contents": [
+
+            ],
+            "movie_percentage": 1.0
+          },
+          "block_content_info": {
+            "imgs": {
+              "focus_img_url": "",
+              "fg": {
+                "align": 0
+              },
+              "poster": {
+                "interval": 0,
+                "images": [
+                  "http://img.sky.fs.skysrt.com/tvos6_imgs_master/20180716/20180716023323206500_384x360.jpg"
+                ]
+              },
+              "corner_icons": [
+
+              ]
+            },
+            "videoSources": [
+              {
+                "id": ""
+              }
+            ],
+            "title": "............",
+            "app_devices": "",
+            "app_packagename": "",
+            "video_source_sign": "",
+            "video_source_company": "",
+            "score": "0",
+            "action": "{\"byvalue\":\"cibntv_yingshi://playlist?playListId=1005557&playListNav=1005557,1005381,1005548&from=com.tianci.movieplatform\",\"packagename\":\"com.cibn.tv\",\"dowhat\":\"startActivity\",\"versioncode\":\"2120513126\",\"params\":{},\"bywhat\":\"uri\",\"exception\":{\"name\":\"onclick_exception\",\"value\":{\"packagename\":\"com.tianci.appstore\",\"dowhat\":\"startActivity\",\"versioncode\":\"-1\",\"params\":{\"id\":\"com.cibn.tv\"},\"byvalue\":\"coocaa.intent.action.APP_STORE_DETAIL\",\"bywhat\":\"action\"}}}",
+            "title_align": 0,
+            "video_is_vip": false,
+            "sub_title": ""
+          }
+        },
+        "width": 384,
+        "type": "Block",
+        "y": 476,
+        "x": 825
+      },
+      {
+        "id": "10354496",
+        "focusable": 1,
+        "height": 166,
+        "extra": {
+          "data_gather_info": {
+            "data_version": 0,
+            "data_id": "",
+            "position_id": ""
+          },
+          "block_type_info": {
+            "auto_play_video": false,
+            "lucency_flag": "0",
+            "conver_type": "base",
+            "block_contents_type": ""
+          },
+          "block_back_contents": {
+            "back_contents": [
+
+            ],
+            "movie_percentage": 1.0
+          },
+          "block_content_info": {
+            "imgs": {
+              "focus_img_url": "",
+              "fg": {
+                "align": 0
+              },
+              "poster": {
+                "interval": 0,
+                "images": [
+                  "http://img.sky.fs.skysrt.com/tvos6_imgs_master/20171105/20171105232143924431_384x166.jpg"
+                ]
+              },
+              "corner_icons": [
+
+              ]
+            },
+            "videoSources": [
+              {
+                "id": ""
+              }
+            ],
+            "title": "............",
+            "app_devices": "",
+            "app_packagename": "",
+            "video_source_sign": "",
+            "video_source_company": "",
+            "score": "0",
+            "action": "{\"byvalue\":\"pptv_tvsports://tvsports_login?from_internal=1\",\"packagename\":\"com.pptv.tvsports\",\"dowhat\":\"startActivity\",\"versioncode\":\"129\",\"params\":{},\"bywhat\":\"uri\",\"exception\":{\"name\":\"onclick_exception\",\"value\":{\"packagename\":\"com.tianci.appstore\",\"dowhat\":\"startActivity\",\"versioncode\":\"-1\",\"params\":{\"id\":\"com.pptv.tvsports\"},\"byvalue\":\"coocaa.intent.action.APP_STORE_DETAIL\",\"bywhat\":\"action\"}}}",
+            "title_align": 0,
+            "video_is_vip": false,
+            "sub_title": ""
+          }
+        },
+        "width": 384,
+        "type": "Block",
+        "y": 476,
+        "x": 1238
+      },
+      {
+        "id": "10354497",
+        "focusable": 1,
+        "height": 166,
+        "extra": {
+          "data_gather_info": {
+            "data_version": 0,
+            "data_id": "",
+            "position_id": ""
+          },
+          "block_type_info": {
+            "auto_play_video": false,
+            "lucency_flag": "0",
+            "conver_type": "base",
+            "block_contents_type": ""
+          },
+          "block_back_contents": {
+            "back_contents": [
+
+            ],
+            "movie_percentage": 1.0
+          },
+          "block_content_info": {
+            "imgs": {
+              "focus_img_url": "",
+              "fg": {
+                "align": 0
+              },
+              "poster": {
+                "interval": 0,
+                "images": [
+                  "http://img.sky.fs.skysrt.com/tvos6_imgs_master/20171105/20171105232143306493_384x166.jpg"
+                ]
+              },
+              "corner_icons": [
+
+              ]
+            },
+            "videoSources": [
+              {
+                "id": ""
+              }
+            ],
+            "title": "............",
+            "app_devices": "",
+            "app_packagename": "",
+            "video_source_sign": "",
+            "video_source_company": "",
+            "score": "0",
+            "action": "{\"byvalue\":\"cibnblitzweb://detail?webtype=yunos&videotop=0&url=https://fez.alicdn.com/wow/tvact/act/worldcuplist\",\"packagename\":\"com.cibn.tv\",\"dowhat\":\"startActivity\",\"versioncode\":\"2120513123\",\"params\":{},\"bywhat\":\"uri\",\"exception\":{\"name\":\"onclick_exception\",\"value\":{\"packagename\":\"com.tianci.appstore\",\"dowhat\":\"startActivity\",\"versioncode\":\"-1\",\"params\":{\"id\":\"com.cibn.tv\"},\"byvalue\":\"coocaa.intent.action.APP_STORE_DETAIL\",\"bywhat\":\"action\"}}}",
+            "title_align": 0,
+            "video_is_vip": false,
+            "sub_title": ""
+          }
+        },
+        "width": 384,
+        "type": "Block",
+        "y": 670,
+        "x": 1238
+      }
+    ],
+    "focusable": 0,
+    "height": 0,
+    "id": "103965",
+    "pannel_id": "1001",
+    "parents": "",
+    "type": "Panel",
+    "width": 0,
+    "x": 0,
+    "y": 0
+  }
+}
